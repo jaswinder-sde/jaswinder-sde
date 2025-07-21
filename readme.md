@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Microservices, Docker & Spring Security**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rishignps](https://github.com/jaswinder-sde)
+- 👨‍💻 All of my projects are available at [https://github.com](https://github.com/jaswinder-sde)
 
 - 📫 How to reach me **jaswinder.gnps@gmail.com**
 
