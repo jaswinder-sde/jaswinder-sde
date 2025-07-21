@@ -42,4 +42,4 @@
 
 ---
 
-⭐️ From [rishignps](https://github.com/rishignps)
+⭐️ From [jaswinder-sde](https://github.com/jaswinder-sde)
