@@ -29,8 +29,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishignps&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishignps&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaswinder-sde
+&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaswinder-sde
+&theme=radical" width="47%" />
 </p>
 
 ---
